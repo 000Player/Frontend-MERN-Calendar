@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Link to the displayed page
 
-https://mern-calendar-react000.herokuapp.com/login
+https://mern-calendar-react000.herokuapp.com
 
 
 ## Available Scripts
